@@ -1,5 +1,7 @@
 Github Lab:
 
+Kawthar Aman
+
 1. What is the first command you awlays need to initialize a git repository?
 A:git init.
 
